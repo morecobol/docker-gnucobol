@@ -7,7 +7,8 @@
 Docker Container with GNU Cobol pre-installed. So you can do things out of the box like:
 
 ```sh
-cobc -xj test.cob
+$ cobc -xj test.cob
+docker-gnucobol installed successfully!
 ```
 
 ## License
